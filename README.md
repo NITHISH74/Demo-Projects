@@ -1,1 +1,1 @@
-# Coursera
+# Demo projects  

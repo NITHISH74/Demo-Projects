@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Nexus — AI Image Enhancement Suite
+# ⚡ AI Image Enhancement Suite
 
 > A high-performance **Computer Vision** project showcasing advanced **AI-powered Image Super-Resolution** using ESRGAN, built with a full-stack production mindset.
 
